@@ -1,4 +1,4 @@
-# Weather Forecast
+# WeatherNow
 # Info
 A simple and responsive weather forecast application built using HTML, CSS, and JavaScript.
 
